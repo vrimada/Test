@@ -220,3 +220,4 @@ web.config
 *.xlsm
 *.xls
 *.xlsx
+.vs/slnx.sqlite
